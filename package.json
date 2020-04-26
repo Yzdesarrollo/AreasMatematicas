@@ -1,0 +1,22 @@
+{
+  "name": "areasmatematicas",
+  "version": "1.0.0",
+  "description": "Ejercicio de funciones matematicas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yzdesarrollo/AreasMatematicas.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Yzdesarrollo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yzdesarrollo/AreasMatematicas/issues"
+  },
+  "homepage": "https://github.com/Yzdesarrollo/AreasMatematicas#readme"
+}
